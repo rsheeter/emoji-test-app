@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emoji Test</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="emoji_sample">🫠🧭</string>
+    <string name="bungeespice_sample">Emoji</string>
+</resources>
